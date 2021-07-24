@@ -1,6 +1,6 @@
 # Laravel Nova Reload Resources Button Card
 ## Installation
-``` composer require tanmuhittin/nova-reload-resources ```
+``` composer require peax10/nova-reload-resources ```
 
 Add to the cards method of the resource
 
